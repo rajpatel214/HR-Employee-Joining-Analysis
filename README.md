@@ -1,5 +1,3 @@
-# HR-Employee-Joining-Analysis
-
 # HR Employee Joining Analysis
 
 ## Project Overview
